@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2646,36 +2646,6 @@ the center of the IC</text>
 <text x="60.96" y="66.04" size="1.778" layer="97">KEY</text>
 <text x="60.96" y="48.26" size="1.778" layer="97">M/S SW</text>
 <text x="7.62" y="167.64" size="3.81" layer="97" font="vector">BT-USB</text>
-<text x="228.6" y="139.7" size="1.778" layer="91">FUNCT
-ADC0
-ADC1
-ADC2
-ADC3 
-ADC4 
-ADC5
-ADC6
-ADC7
-</text>
-<text x="248.92" y="139.7" size="1.778" layer="91">MBED  
-  15     
-  16    
-  17    
-  18   
- 
-  19    
-  20    
-
-</text>
-<text x="238.76" y="139.7" size="1.778" layer="91"> PIN
-P0.11
-P0.12
-P0.13
-P0.14
-P0.15
-P0.16
-P0.22
-P0.23
-</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
